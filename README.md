@@ -14,4 +14,6 @@ Método de Newton-Raphson
 
 ## Práctica 3
 
-Resolución de Ecuaciones Diferenciales
+Resolución de sistemas de ecuaciones lineales
+
+Creada en un <a href="https://github.com/EdgarsFeic96/Gauss-Jordan-Method">repositorio por separado</a>

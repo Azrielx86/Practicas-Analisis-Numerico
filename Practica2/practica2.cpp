@@ -1,28 +1,3 @@
-/* ANALISIS NUMÉRICO Pråctica No. 2
-
-A) Para un programa de Newton-Raphson realizado en smathstudio o en un lenguaje
-    de cómputo que se les haga mås sencillo utilizar
-    1. Agregar un letrero que diga:
-        ANÅLISIS NUMÉRICO
-        GRUPO:
-        MÉTODO DE NEWTON RAPHSON
-    2. Agregar un letrero en el que aparezcan los integrantes del equipo.
-    3.Hacer que el programa resuelva una función de aplicación a la ingenieria
-        (de preferencia de su carrera)
-    4. Hacer que el programa tabule 50 valores de la función con un incremento
-        h=0.1
-    5. Incluir el criterio de convergencia, es decir definir la función de la
-        segunda derivada y llamarla en esta parte
-    6. Hacer que el programa termine hasta que se cumpla la tolerancia o un
-        número måximo de iteraciones, 10 que suceda primero.
-
-B) EN EXCEL:
-    1) Dibujar la función que se resolvió en el punto 3 del inciso A.
-    2) Dibujar el número de la iteración en el eje horizontal y en el eje vertical
-        el valor absoluto de la función calculado en dicha iteración.
-
-C) DAR CONCLUSIONES Y COMENTARIOS
-*/
 #include <iostream>
 #include <limits>
 #include <cmath>
